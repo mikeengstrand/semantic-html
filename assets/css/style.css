@@ -20,11 +20,13 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* I removed this class */
+/* .header h1 .seo {
     color: #d9dcd6;
-}
+} */
 
-.header div {
+/* I remaned div to nav as a result i updated this code below */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +34,12 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* I remaned div to nav as a result i updated this code below */
+.header nav ul {
     list-style-type: none;
 }
-
-.header div ul li {
+/* I remaned div to nav as a result i updated this code below */
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
